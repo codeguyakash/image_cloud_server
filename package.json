@@ -2,7 +2,8 @@
   "dependencies": {
     "cloudinary": "^2.2.0",
     "express": "^4.19.2",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.1"
   },
   "name": "image_cloud_server",
   "version": "1.0.0",
